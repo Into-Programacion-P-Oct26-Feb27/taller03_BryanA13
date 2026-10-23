@@ -26,13 +26,11 @@ public class Ejercicio04 {
         double resultado = ((variable1 + variable2) / variable3); 
           
         System.out.println(resultado);
-        
-      
+       
         boolean a = (resultado > variable4);
     System.out.println(a); // true
         
-       
-    
+     
     }
     
 }
